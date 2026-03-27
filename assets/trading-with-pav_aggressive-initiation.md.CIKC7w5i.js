@@ -1,0 +1,42 @@
+import { _ as _export_sfc, I as resolveComponent, c as createElementBlock, o as openBlock, a5 as createStaticVNode, j as createBaseVNode, J as createVNode, a as createTextVNode, w as withCtx, a_ as _imports_0, a$ as _imports_1, b0 as _imports_2, b1 as _imports_3, b2 as _imports_4, b3 as _imports_5 } from "./chunks/framework.BI_fuOps.js";
+const __pageData = JSON.parse('{"title":"Aggressive Initiation","description":"","frontmatter":{"title":"Aggressive Initiation","outline":"deep","prev":{"text":"Sideways Price Action Area","link":"/trading-with-pav/sideways-price-action-area"},"next":{"text":"Strong Rejection of Higher or Lower Prices","link":"/trading-with-pav/strong-rejection-of-higher-or-lower-prices"}},"headers":[],"relativePath":"trading-with-pav/aggressive-initiation.md","filePath":"trading-with-pav/aggressive-initiation.md"}');
+const _sfc_main = { name: "trading-with-pav/aggressive-initiation.md" };
+function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
+  const _component_GraphComment = resolveComponent("GraphComment");
+  const _component_ClientOnly = resolveComponent("ClientOnly");
+  return openBlock(), createElementBlock("div", null, [
+    _cache[0] || (_cache[0] = createStaticVNode('<h1 id="aggressive-initiation" tabindex="-1">Aggressive Initiation <a class="header-anchor" href="#aggressive-initiation" aria-label="Permalink to “Aggressive Initiation”">​</a></h1><p>Now that you know how to find sideways price action on the chart lets explore next one that is Aggressive Initiation.</p><ul><li>Aggressive initiation activity is basically a significant price movement or a trend.</li><li>It is caused by aggressive buyers pushing the price higher or by aggressive sellers who are pushing the price lower.</li><li>This sort of aggressive buying or selling often takes place after sideways price action activity.</li><li>This happens because big institutions are building up their positions (in sideways areas), and when they are done with that, they start aggressive buying or selling to manipulate and to move the price in any direction they want.</li><li>This is how they make money.</li><li>They build up their positions slowly and unnoticed, and then they start a trend to make those positions profitable.</li><li>When the price is moving in a fast trend, there isn’t much time to place any more big positions.</li><li>For this reason, the institutions need to accumulate their positions before the move.</li></ul><p>Look at the below chart by now you might be able to see sideways price action just by seeing any chart.</p><p><img src="' + _imports_0 + '" alt="Aggressive-Initiation-Up1"></p><p>Below image is marked with Sideways price action</p><p><img src="' + _imports_1 + '" alt="Aggressive-Initiation-Up2"></p><p>The yellow marking is aggressive initiation area as you can see that in the sideways their position was <strong>Short Position</strong> as the initiation was downward.</p><p><img src="' + _imports_2 + '" alt="Aggressive-Initiation-Up3"></p><p>Now lets look at upward initiation. Below is different chart image. Can you spot sideway action ?</p><p><img src="' + _imports_3 + '" alt="Aggressive-Initiation-Dn1"></p><p>Sideways is shown in the below image.</p><p><img src="' + _imports_4 + '" alt="Aggressive-Initiation-Dn2"></p><p>As you can see <strong>Institution</strong> were building <strong>Long Position</strong> as Aggressive initiation area (yellow rectangle) is upward direction.</p><p><img src="' + _imports_5 + '" alt="Aggressive-Initiation-Dn3"></p><ul><li>Strong <strong>initiation areas</strong> or <strong>trend areas</strong> are significant because <strong>they show us the intentions of big financial institutions</strong>.</li><li>We can’t see the intentions in sideways price action areas, but when the <strong>trend starts</strong>, <ul><li>we know if the <strong>institutional accumulated positions</strong> were <strong>long</strong> or <strong>short</strong>.</li></ul></li><li>If there is a <strong>strong uptrend</strong> after a sideways price action area, then <ul><li>we know that the <strong>positions</strong> that the big institutions were accumulating were <strong>long positions</strong>.</li></ul></li><li>If there is a sideways price action area, followed by aggressive <strong>sell-off</strong> (or a <strong>downtrend</strong>), then <ul><li>we know that the <strong>accumulated positions</strong> were <strong>short positions</strong>.</li></ul></li><li>Remember that <strong>strong trend areas</strong> or <strong>fast price movements</strong> are ALWAYS caused by aggressive <strong>buyers</strong> or <strong>sellers</strong>. <ul><li>It is the <strong>aggression of institutions</strong> that moves the price <strong>up</strong> or <strong>down</strong>.</li></ul></li></ul><p>Now go to the charts and start looking for Sideways as well as Aggressive initiation. In next article will finally learn Strong rejection of higher or lower prices.</p><h2 id="video" tabindex="-1">Video <a class="header-anchor" href="#video" aria-label="Permalink to “Video”">​</a></h2>', 18)),
+    _cache[1] || (_cache[1] = createBaseVNode("iframe", {
+      width: "560",
+      height: "315",
+      src: "https://www.youtube.com/embed/viAOAQlrWgA",
+      title: "YouTube video player",
+      frameborder: "0",
+      allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+      allowfullscreen: ""
+    }, null, -1)),
+    _cache[2] || (_cache[2] = createBaseVNode("p", null, "The above video explains this article in hindi language.", -1)),
+    _cache[3] || (_cache[3] = createBaseVNode("h2", {
+      id: "comments",
+      tabindex: "-1"
+    }, [
+      createTextVNode("Comments "),
+      createBaseVNode("a", {
+        class: "header-anchor",
+        href: "#comments",
+        "aria-label": "Permalink to “Comments”"
+      }, "​")
+    ], -1)),
+    createVNode(_component_ClientOnly, null, {
+      default: withCtx(() => [
+        createVNode(_component_GraphComment)
+      ]),
+      _: 1
+    })
+  ]);
+}
+const aggressiveInitiation = /* @__PURE__ */ _export_sfc(_sfc_main, [["render", _sfc_render]]);
+export {
+  __pageData,
+  aggressiveInitiation as default
+};
